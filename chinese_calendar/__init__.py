@@ -22,7 +22,7 @@ from .utils2 import (
     T_n,
     )
 
-__version__ = "1.10.0"
+__version__ = "1.11.0"
 __all__ = [
     "Holiday",
     "holidays",
